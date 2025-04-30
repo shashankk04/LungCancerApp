@@ -1,6 +1,8 @@
 # 🫁 Lung and Colon Cancer Classification Web App
 
 This is a full-stack web application that classifies histopathological images into **lung_aca**, **lung_scc**, or **lung_n** categories using a Convolutional Neural Network (CNN). The model was trained on real-world cancer image data and served via a Flask backend with a React frontend for user interaction.
+![image](https://github.com/user-attachments/assets/4d082229-1155-408e-8f2d-4ea47b914339)
+
 
 ## 🧠 Model Training
 
