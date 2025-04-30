@@ -39,13 +39,13 @@ The complete model training process is available in the `training.ipynb` noteboo
 
 ## 🚀 How to Run the App
 
-###Start the Backend (Flask)
+### Start the Backend (Flask)
 ```
 cd Backend
 pip install -r requirements.txt
 python app.py
 ```
-###Start the Frontend (React)
+### Start the Frontend (React)
 ```
 cd Frontend
 npm install
