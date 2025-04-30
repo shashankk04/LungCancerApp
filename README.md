@@ -26,7 +26,7 @@ This is a full-stack web application that classifies histopathological images in
 
 Download the trained `.h5` model file from the link below and place it inside the `backend` directory:
 
-**[Download lung_cancer_model.h5]([https://your-download-link.com](https://drive.google.com/file/d/1nfdXUg0Czbm-JBRPM9AQzRPFQEztvgxR/view?usp=sharing))**
+[Download lung_cancer_model.h5](https://drive.google.com/file/d/1nfdXUg0Czbm-JBRPM9AQzRPFQEztvgxR/view?usp=sharing) 
 
 ## 📓 Training Notebook
 
